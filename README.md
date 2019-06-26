@@ -2,7 +2,7 @@
 
 ## 技术栈:
 技术|版本|
---|:--:|--:
+--|--:
 Springboot|2.1.6.RELEASE/M3
 SpringCloud|Greenwich.SR1/Finchley.M2
 Redis|3.2.100
