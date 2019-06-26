@@ -1,4 +1,4 @@
-# 基于SpringClound的天气预报项目
+# 基于SpringCloud的天气预报项目
 
 ## 技术栈:
 技术|版本|
